@@ -1,3 +1,3 @@
 function msg(){  
-    alert("Welcome to a new journey and my new site");  
+    alert("Thank you for hiring me!");  
    }  
